@@ -1,0 +1,7 @@
+
+false positives = 0.001
+
+IBF lengths are
+1729 3457 5186 6914 8643
+10371 12100 13828 15557 17285
+by functions in set (2,4,6,8,10,12,14,16,18,20)

@@ -1,0 +1,6 @@
+
+
+
+
+Projection 中 是我选定的映射函数组合
+ProjectionGeoHash 中 是原始的映射GeoHash编码方式，可以自己选择搭配映射函数
